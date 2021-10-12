@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-example",
+  "version": "1.0.0",
+  "description": "[vi]\r Express là 1 trong những framework của web application\r * Cần biết: JS, hiểu về builtin cơ bản FS,path\r * Biết sử dụng package cơ bản npm\r * Biết databae căn bản\r Kiến thức học được:\r * Router \r * Middleware\r * Cấu hình các method POST,PUT,GET,DELETE\r * Authenticate \r * Restful API\r * Express static\r * Bài toán phân trang\r * Cơ chế CORS\r * JWT và xác thực phân quyền sử dụng API\r * OAUTH2 đăng nhập ( face,google)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunlordc1/nodejs-express-vuejs-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunlordc1/nodejs-express-vuejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/sunlordc1/nodejs-express-vuejs-mongodb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
