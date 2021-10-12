@@ -9,6 +9,7 @@
 -Khởi tạo dự án
 -Cài nodemon để live server
 * Router 
+- app use để sử dụng
 * Middleware
 - Middleware nào áp dụng trước thì chạy trước
 * Cấu hình các method POST,PUT,GET,DELETE
